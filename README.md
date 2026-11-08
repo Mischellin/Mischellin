@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidorkin.mikhail.v@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Mischellin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mischellin)
 
-**📍 Kazakhstan · 🌐 Open to Worldwide Remote (B2B Contractor / EOR via Deel)**
+**📍 Belarus · 🌐 Open to Worldwide Remote (B2B Contractor / HTP IT Company)**
 
 ---
 
