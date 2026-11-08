@@ -101,26 +101,26 @@ I bridge the gap between product strategy and deep hands-on systems engineering:
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Mischellin/OpsBrain">OpsBrain</a></h3>
+      <p><b>Safe MCP server for infrastructure control by AI agents.</b> Replaces raw shell execution with audited command templates across OpenTofu, Ansible, Kubernetes, and Prometheus. Enforces strict two-phase (plan → apply bound to hash) workflows.</p>
+      <p><code>MCP</code> · <code>Python 3.13</code> · <code>Kubernetes</code> · <code>OpenTofu</code> · <code>Zero-Trust</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚩 <a href="https://github.com/Mischellin/Feature-Flagger">Feature-Flagger</a></h3>
+      <p><b>High-performance Feature Flagging & A/B testing microservice.</b> Async FastAPI application with PostgreSQL / SQLAlchemy 2.0 (asyncpg), Alembic migrations, and stable bucketing rollout engine.</p>
+      <p><code>FastAPI</code> · <code>Python 3.13</code> · <code>SQLAlchemy 2.0</code> · <code>Asyncpg</code> · <code>Pytest 100%</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🤖 dev-harness</h3>
       <p><b>Developer workstation for AI-augmented software engineering.</b> Runs autonomous coding agents (Claude Code, Codex, Copilot, OpenCode) in isolated Git worktrees via ACP, enforcing mandatory peer reviews by an automated reviewer from a different LLM family.</p>
       <p><code>Architecture</code> · <code>Multi-Agent</code> · <code>ACP</code> · <code>Git Worktrees</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ OpsBrain</h3>
-      <p><b>Safe MCP server for infrastructure control by AI agents.</b> Replaces raw shell execution with audited command templates across OpenTofu, Ansible, Kubernetes, and Prometheus. Enforces strict two-phase (plan → apply bound to hash) workflows.</p>
-      <p><code>MCP</code> · <code>Kubernetes</code> · <code>OpenTofu</code> · <code>Zero-Trust</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💬 veche</h3>
+      <h3>💬 <a href="https://github.com/Mischellin/veche">veche</a></h3>
       <p><b>Slack-like Matrix client for teams</b> built with Flutter. Integrates decentralized channel messaging, video meetings via Jitsi, and CalDAV calendaring into a single unified client.</p>
       <p><code>Flutter</code> · <code>Matrix Protocol</code> · <code>Jitsi</code> · <code>CalDAV</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📑 OkyDoky</h3>
-      <p><b>Intelligent document processing for accountants via Telegram.</b> Handles document intake, OCR extraction (Apple Vision), automated AI classification, and direct export to 1C accounting platforms.</p>
-      <p><code>Python</code> · <code>OCR</code> · <code>Telegram API</code> · <code>1C Integration</code></p>
     </td>
   </tr>
 </table>
