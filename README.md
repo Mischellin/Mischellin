@@ -127,12 +127,28 @@ I bridge the gap between product strategy and deep hands-on systems engineering:
 
 ---
 
-## 📊 GitHub & Engineering Activity
+## 📊 Engineering Cadence & Production Scale
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mischellin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Mikhail's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mischellin&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="165" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <h3>7.66M+</h3>
+      <p><b>Enterprise SSO Accounts</b><br/>Zero data loss in disaster recovery</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>5,200+ RPS</h3>
+      <p><b>Load Ceiling Tested</b><br/>Auth & streaming production scale</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>100% GitOps</h3>
+      <p><b>Flux CD & Kyverno</b><br/>Zero-downtime multi-AZ clusters</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>1,300+ PRs</h3>
+      <p><b>AI-Augmented Delivery</b><br/>Multi-agent delivery with cross-model peer review</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
